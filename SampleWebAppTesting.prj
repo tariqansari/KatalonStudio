@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>SampleWebAppTesting</name>
+   <tag></tag>
+   <UUID>d1758d9b-8e5f-440a-863c-33500d8ae1f9</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>

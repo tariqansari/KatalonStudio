@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigating to Google Homeoage and entering some search item</description>
+   <name>GoogleHomePage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1547dc75-f18f-4ec1-b618-bea181d44be3</testCaseGuid>
+</TestCaseEntity>
